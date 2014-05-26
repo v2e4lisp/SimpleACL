@@ -1,0 +1,10 @@
+UsersController:
+  ALL:
+    - admin
+  show:
+    - user
+    - superior
+  edit:
+    - superior
+  delete:
+    - group_admin
